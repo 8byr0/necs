@@ -13,12 +13,15 @@ Written in C# .NET
 On the login screen, two possibilities:
 - Create a new archive (defined by its name and its password)
 - Open an existing archive
+![Login window screenshot](https://github.com/8byr0/necs/blob/master/screenshots/login_window.PNG?raw=true)
+
 
 ## Editor main view
 This window is made of:
 - A list of all the notes (left-side)
 - A new note form (bottom-left)
 - An editor (right)
+![Editor window screenshot](https://github.com/8byr0/necs/blob/master/screenshots/editor_window.PNG?raw=true)
 
 ## Improvements
 In the future:
