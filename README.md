@@ -36,7 +36,7 @@ In the future:
 ## Credits
 Credits for this application go to 
 - Hugues BUREAU (https://github.com/8byr0)
-- Alexandre BROHAN (https://github.com/TODO)
+- Alexandre BROHAN (https://github.com/lexlexlexlexlex)
 
 -------------------------
 
